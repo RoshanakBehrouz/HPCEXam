@@ -1,2 +1,2 @@
 # HPCEXam
-Two Exercises prepared for Passing this course.
+Two Exercises prepared for High Performance Computing.
